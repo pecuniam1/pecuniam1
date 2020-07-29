@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Joe Kelly, and I am a full stack developer looking for new oppurtunities. I have a [website](https://www.joekellyonline.com) that I recently started and am adding to all the time. It's just a brief intro, but you can find the code for it right [here](https://www.gitbhub.com/pecuniam/joekellyonline)
+
+I am getting my Master's in Computer Science with a concentration in Cyber Security. I previously worked as a full stack developer in PHP and AngularJS and am waiting to put my talents to use again.
+
+Thanks for stopping by as I add more code and try to really demonstrate what I am capable of.
+
 <!--
 **pecuniam1/pecuniam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
